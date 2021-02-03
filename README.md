@@ -1,4 +1,6 @@
-# sprintf.js
+# sprintf.js alias: c-sprintf.js
+
+A simple sprintf helper nearly to the c implementaion
 
 this is a repo to hold different versions of github.com/jakobwesthoff/sprintf.js
 you may need.
@@ -78,9 +80,8 @@ Result of packages branch:
 
 # Changelog
 
-2021-01
+See packages branch for a more complete list.
 
  + Adds "master" branch as version v1.0.0 (470a54c on Nov 4, 2014)
- 
  + Init adding sprintf.js
 
