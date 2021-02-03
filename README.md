@@ -1,4 +1,6 @@
-# sprintf.js
+# sprintf.js alias: c-sprintf.js
+
+A simple sprintf helper nearly to the c implementaion
 
 this is a repo to hold different versions of github.com/jakobwesthoff/sprintf.js
 you may need.
