@@ -78,9 +78,10 @@ Result of packages branch:
 
 # Changelog
 
-See packages branch for a more complete list.
+Packages branch.
 
 2021-01
- 
+
+ + Adds "master" branch as version v1.0.0 (470a54c on Nov 4, 2014)
  + Init adding sprintf.js
 
